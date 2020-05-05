@@ -1,0 +1,22 @@
+{
+  "name": "caocap-web",
+  "version": "1.0.0",
+  "description": "caocap WEB-APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAOCAP/caocap-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAOCAP/caocap-web/issues"
+  },
+  "homepage": "https://github.com/CAOCAP/caocap-web#readme",
+  "dependencies": {
+    "react-router-dom": "^5.1.2"
+  }
+}
